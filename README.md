@@ -4,4 +4,4 @@ CTT is a minecraft resourcepack created to improve the vanilla building experien
 
 Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](https://discord.com/channels/308744621616529410/1243802341824663602) for discussions and suggestions for new and existing textures.
 
-For the complete list of changes, read the [CTT Wiki](https://github.com/mygazthehealer/chocos-texture-tweaks/blob/main/TEXTURE.md). If you dislike a certain texture but still want to use the datapack, you may delete the .json file corresponding to that recipe.
+For the complete list of changes, read the [CTT Wiki](https://github.com/mygazthehealer/chocos-texture-tweaks/blob/main/TEXTURE.md). If you dislike a certain texture but still want to use the datapack, you may delete the .png and .json file corresponding to that recipe.
