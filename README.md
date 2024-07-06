@@ -6,4 +6,4 @@ Join [MCS](https://discord.com/invite/NtVxyW5) and visit the [CVT brainforum](ht
 
 For the complete list of changes, read the [CTT Wiki](https://github.com/mygazthehealer/chocos-texture-tweaks/blob/main/TEXTURE.md). If you dislike a certain texture but still want to use the datapack, you may delete the .png and .json file corresponding to that recipe.
 
-(I'm considering repurposing this repository for the CVT mod, with the CTT resourcepack and tge CCT datapack intended to be accompanying additions)
+(I'm considering repurposing this repository for the Chocos' Vanilla Tweaks mod, with CTT resourcepack and CCT datapack intended to be accompanying additions)
