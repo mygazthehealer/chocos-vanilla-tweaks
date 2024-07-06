@@ -9,14 +9,16 @@
 ## (Planned Textures)
 
 - **Sea Pickle** uses brighter texture similar to Sea Grass and Lime Dye
-- **Light Gray Dye** matches Light Gray Concrete 
-- **Gray Dye** matches Gray Concrete
-- **Dyes** have unique item shapes (visually distinguished)
+- **Light Gray Dye** matches Light Gray Concrete, **Gray Dye** matches Gray Concrete
+- **Green, Light Blue, Purple, Magenta, Pink and Gray Dyes** have unique item shapes (visually distinguished)
 - **Potions** have unique bottle shapes (depending upon Effects)
 - **Beds** have old 2-D item sprites
 - **Blackstone Button** and **Blackstone Pressure Plate** uses Blackstone texture
 - **Deepslate** is no longer directional, placed like Bookshelf
 - **Nether Sprouts** have unique item shape
+- **Glow Lichen** uses brighter texture similar to Glow Berries/Vines
+- (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above them)
+- (Sheared Sheep have wool patches to match their dye/color)
 
 ## (Renaming)
 - Blackstone > Cobbled Blackstone
@@ -30,3 +32,4 @@
 - Bricks > Clay Bricks
 - Azalea > Azalea Bush
 - Flowering Azalea > Flowering Azalea Bush
+- Bottle O' Enchanting > Experience Bottle
