@@ -17,6 +17,9 @@
 - Glazed Terracota: smelted/blasted from Plain Terracotta
 - Concrete Powder: crafted from 4 Sand/Red Sand + 4 Gravel
 - Concrete: converted from Concrete Powder + Water
+- Potato Crate
+- Carrot Crate
+- Beetroot Crate:
 - Budding Quartz, Quartz Cluster
 - Budding Prismarine, Prismarine Cluster
 - Golden Door/Trapdoor/Bars, Copper Door/Trapdoor/Bars/Pressure Plate
@@ -49,6 +52,7 @@
 - Lead can be placed like Chains, Lead/Chains are climbable
 - Beds, Bucket of Water/Lava/Milk/Powder Snow/Fish, Bottle of Water/Dragons Breath/Experience, Normal/Splash/Lingering Potion, Bowl of Mushroom/Rabbit/Suspicious Stew/Beetroot Soup, Boat/Chestboat, Minecart/Minecart with Workbench, Enchanted Books, Saddle, Horse Armour, Music Disc, Totem of Undying, Goat Horn, Spyglass, Eyes of Ender stacks to 16
 - Bucket, Cake, Snow Ball stacks to 64
+- using Bonemeal on Flowers multiplies them on Grass, Dirt, Mud
 
 ## (Ideas)
 - Terracotta Bricks
