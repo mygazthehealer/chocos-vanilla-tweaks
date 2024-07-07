@@ -21,7 +21,8 @@
 - **Dark Oak Leaves** uses unique texture (distinct from Oak Leaves)
 - **Crafting Table**, **Bookshelf**, **Lectern**, **Cartography Table**, **Fletching Table**, **Stonecutter**, **Enchanting Table** and **Respawn Anchor** uses unique bottom textures
 - **Chipped Anvil**, **Damaged Anvil** uses unique side textures
-- (Spruce Leaves are rendered white with falling Snowflake particles when Snow is above)
+- **Farmland**/Tilled Dirt uses darker brown side texture when hydrated
+- (Leaves are rendered white with falling Snowflake particles when Snow is above)
 - (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above)
 - (Sheared Sheep have wool patches to match their dye/color)
 
