@@ -10,16 +10,19 @@
 
 - **Sea Pickle** uses brighter texture similar to Sea Grass and Lime Dye
 - **Light Gray Dye** matches Light Gray Concrete, **Gray Dye** matches Gray Concrete
-- **Green, Light Blue, Purple, Magenta, Pink and Gray Dyes** have unique item shapes (visually distinguished)
+- **Green**, **Light Blue**, **Purple**, **Magenta**, **Pink**, **Gray Dyes** have unique item shapes (visually distinguished)
 - **Potions** have unique bottle shapes (depending upon Effects)
 - **Beds** have old 2-D item sprites
 - **Blackstone Button** and **Blackstone Pressure Plate** uses Blackstone texture
 - **Deepslate** is no longer directional, placed like Bookshelf
 - **Nether Sprouts** have unique item shape
 - **Glow Lichen** uses brighter texture similar to Glow Berries/Vines
-- ** Birch Leaves ** uses orange texture 
-- ** Dark Oak Leaves ** uses unique texture
-- (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above them)
+- **Birch Leaves** uses orange texture and falling Autumn leaf particles
+- **Dark Oak Leaves** uses unique texture (distinct from Oak Leaves)
+- **Crafting Table**, **Bookshelf**, **Lectern**, **Cartography Table**, **Fletching Table**, **Stonecutter**, **Enchanting Table** and **Respawn Anchor** uses unique bottom textures
+- **Chipped Anvil**, **Damaged Anvil** uses unique side textures
+- (Spruce Leaves are rendered white with falling Snowflake particles when Snow is above)
+- (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above)
 - (Sheared Sheep have wool patches to match their dye/color)
 
 ## (Renaming)

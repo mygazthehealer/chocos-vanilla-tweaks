@@ -19,11 +19,27 @@
 - Concrete: converted from Concrete Powder + Water
 - Budding Quartz, Quartz Cluster
 - Budding Prismarine, Prismarine Cluster
+- Golden Door/Trapdoor/Bars, Copper Door/Trapdoor/Bars/Pressure Plate
+- Azalea Woodset (Log/Wood/Planks/etc)
+- Stone Tablet/Hanging Tablet, Deepslate Tablet/Hanging Tablet, Blackstone Tablet/Hanging Tablet
+- Polished Tuff, Polished Calcite, Polished Dripstone, Chiseled Basalt
+- Polished Nether Bricks, Polished Crimson Nether Bricks, Cracked Crimson Nether Bricks, Chiselled Crimson Nether Bricks
+- Packed Clay, Polished Clay Bricks, Cracked Clay Bricks, Chiselled Clay Bricks
+- Polished Mud Bricks, Cracked Mud Bricks, Chiselled Mud Bricks
+- Polished Endstone, Cracked Endstone Bricks, Chiselled Endstone
+- Cobbled Purpur, Polished Purpur, Chiselled Purpur
+- Polished Prismarine, Cracked Prismarine Bricks, Chiselled Prismarine, Polished Dark Prismarine, Chiselled Dark Prismarine
+- Mossy Deepslate, Mossy Deepslate Bricks, Crimson/Warped Blackstone, Crimson/Warped Blackstone Bricks
+- (Nether Brick Fence Gate)
 - (Crimson Boat/Chestboat, Warped Boat/Chestboat)
 - (Crimson Wart Carpet, Warped Wart Carpet)
 - (Deepslate Button, Deepslate Pressure Plate)
+- (Deepslate Slab, Tuff Slab, Calcite Slab, Dripstone Slab, Basalt Slab, Smooth Basalt Slab, Polished Basalt Slab, Endstone Slab, Purpur Pillar Slab, Quartz Bricks Slab)
+- (Deepslate Stair, Smoothstone Stair, Tuff Stair, Calcite Stair, Dripstone Stair, Basalt Stair, Smooth Basalt Stair, Cut Sandstone Stair, Cut Red Sandstone Stair, Endstone Stair, Quartz Bricks Stair)
+- (Stone Wall, Smoothstone Wall, Deepslate Wall, Polished Andesite Wall, Polished Granite Wall, Polished Diorite Wall, Tuff Wall, Calcite Wall, Dripstone Wall, Basalt Wall, Smooth Basalt Wall, Cut Sandstone Wall, Smooth Sandstone Wall, Cut Red Sandstone Wall, Smooth Red Sandstone Wall, Endstone Wall, Dark Prismarine Wall, Prismarine Bricks Wall, Purpur Wall, Smooth Quartz Wall, Quartz Bricks Wall)
 - (Flowers specifically tied to Light Gray, Gray, Brown)
 - (leaked unnamed Cave Vine/Flower)
+- (Pumpkin Pie can be placed and eaten)
 
 ## More Interactions
 - using Water Bottle on Concrete Powder converts it into Concrete
