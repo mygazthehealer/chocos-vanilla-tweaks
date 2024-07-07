@@ -6,8 +6,9 @@
 - Sawdust: crafted from Sticks (3 Sawdust), Bamboo (1 Sawdust)
 - Sawmill: crafted from 7 Wooden Slabs/1 Composter + 1 Iron Ingot
 - Pykrete/Reinforced Ice: crafted from 1 Ice + 1 Sawdust/Wheat
-- (Packed Mud can be crafted from 1 Mud and 1 Wheat)
-
+- Wood Pulp/Sawdust Block: crafted from 9 Sawdust
+- (Packed Mud can be crafted from 1 Mud and 1 Sawdust)
+- (Paper can be crafted from 4 Sawdust and 1 Water Bottle)
 ## More Blocks
 - Blazing Sand: crafted from 9 Blaze Powder
 - Charcoal Block: crafted from 9 Charcoal
@@ -65,3 +66,4 @@
 - Plain Wool (Wool Carpet/Bed/Banner crafted from Plain Wool)
 - Glassblowing Workstation (New way to brew Splash/Lingering Potions)(New way to recycle miscellaneous Glass items)
 - Apple Crate, Berry Crate, Glow Berry Crate, Chorus Fruit Crate
+- Fletching Table Functionality (can be used to repair Bows/Crossbows, craft stronger Bows/Crossbows/Arrows)
