@@ -17,6 +17,8 @@
 - **Deepslate** is no longer directional, placed like Bookshelf
 - **Nether Sprouts** have unique item shape
 - **Glow Lichen** uses brighter texture similar to Glow Berries/Vines
+- ** Birch Leaves ** uses orange texture 
+- ** Dark Oak Leaves ** uses unique texture
 - (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above them)
 - (Sheared Sheep have wool patches to match their dye/color)
 
