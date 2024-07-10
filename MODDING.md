@@ -9,6 +9,7 @@
 - Wood Pulp/Sawdust Block: crafted from 9 Sawdust
 - (Packed Mud can be crafted from 1 Mud and 1 Sawdust)
 - (Paper can be crafted from 4 Sawdust and 1 Water Bottle)
+
 ## More Blocks
 - Blazing Sand: crafted from 9 Blaze Powder
 - Charcoal Block: crafted from 9 Charcoal
@@ -56,6 +57,9 @@
 - using Bonemeal on Flowers multiplies them on Grass, Dirt, Mud
 - Pumpkin Pie can be placed, decorated with Candle, and eaten by using empty hand
 - Furnace can yield more than 1 Item
+- Stonecutting can consume more than 1 Item
+- Cauldrons have 4 levels of volume (4 Bottles = 1 Bucket/Block)
+- Fire Resistance allows visibility under lava
 
 ## (Ideas)
 - Terracotta Bricks
@@ -67,3 +71,4 @@
 - Glassblowing Workstation (New way to brew Splash/Lingering Potions)(New way to recycle miscellaneous Glass items)
 - Apple Crate, Berry Crate, Glow Berry Crate, Chorus Fruit Crate
 - Fletching Table Functionality (can be used to repair Bows/Crossbows, craft stronger Bows/Crossbows/Arrows)
+- additional Stonecutter functionality (second slot for converting Cobblestone/Stone Bricks to Mossy Cobblestone/Stone Bricks, Nether Bricks to Red Nether Bricks, Prismarine to Dark Prismarine)
