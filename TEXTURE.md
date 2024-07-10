@@ -38,4 +38,4 @@
 - Bricks > Clay Bricks
 - Azalea > Azalea Bush
 - Flowering Azalea > Flowering Azalea Bush
-- Bottle O' Enchanting > Experience Bottle
+- Bottle O' Enchanting > Bottle of Experience
