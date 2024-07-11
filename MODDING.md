@@ -23,10 +23,12 @@
 - Potato Crate: crafted from 9 Potato
 - Carrot Crate: crafted from 9 Carrot
 - Beetroot Crate: crafted from 9 Beetroot
+- Azalea Woodset (Log/Wood/Planks/etc)
+- Bucket of Quicksand/Red Quicksand
 - Budding Quartz, Quartz Cluster
 - Budding Prismarine, Prismarine Cluster
+- Gilded Blackstone Bricks
 - Golden Door/Trapdoor/Bars, Copper Door/Trapdoor/Bars/Pressure Plate
-- Azalea Woodset (Log/Wood/Planks/etc)
 - Stone Tablet/Hanging Tablet, Deepslate Tablet/Hanging Tablet, Blackstone Tablet/Hanging Tablet
 - Polished Tuff, Polished Calcite, Polished Dripstone, Chiseled Basalt
 - Polished Nether Bricks, Polished Crimson Nether Bricks, Cracked Crimson Nether Bricks, Chiselled Crimson Nether Bricks
@@ -60,6 +62,7 @@
 - Stonecutting can consume more than 1 Item
 - Cauldrons have 4 levels of volume (4 Bottles = 1 Bucket/Block)
 - Fire Resistance allows visibility under lava
+- Vines can be placed like Glow Lichen
 
 ## (Ideas)
 - Terracotta Bricks

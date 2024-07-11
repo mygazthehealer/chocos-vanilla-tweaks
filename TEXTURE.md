@@ -39,3 +39,4 @@
 - Azalea > Azalea Bush
 - Flowering Azalea > Flowering Azalea Bush
 - Bottle O' Enchanting > Bottle of Experience
+- Bucket of Powdered Snow > Bucket of Quicksnow
