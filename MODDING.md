@@ -23,13 +23,16 @@
 - Potato Crate: crafted from 9 Potato
 - Carrot Crate: crafted from 9 Carrot
 - Beetroot Crate: crafted from 9 Beetroot
+- Sugarcane Block: crafted from 9 Sugarcane
+- Storage Block for Amethyst, Quartz, Glowstone Dust, Prismarine Shards, Prismarine Crystals
 - Azalea Woodset (Log/Wood/Planks/etc)
 - Bucket of Quicksand/Red Quicksand
 - Budding Quartz, Quartz Cluster
 - Budding Prismarine, Prismarine Cluster
+- Ice Shards/Icicle
 - Gilded Blackstone Bricks
 - Golden Door/Trapdoor/Bars, Copper Door/Trapdoor/Bars/Pressure Plate
-- Stone Tablet/Hanging Tablet, Deepslate Tablet/Hanging Tablet, Blackstone Tablet/Hanging Tablet
+- Stone Tablet, Deepslate Tablet, Blackstone Tablet
 - Polished Tuff, Polished Calcite, Polished Dripstone, Chiseled Basalt
 - Polished Nether Bricks, Polished Crimson Nether Bricks, Cracked Crimson Nether Bricks, Chiselled Crimson Nether Bricks
 - Packed Clay, Polished Clay Bricks, Cracked Clay Bricks, Chiselled Clay Bricks
@@ -75,3 +78,4 @@
 - Apple Crate, Berry Crate, Glow Berry Crate, Chorus Fruit Crate
 - Fletching Table Functionality (can be used to repair Bows/Crossbows, craft stronger Bows/Crossbows/Arrows)
 - additional Stonecutter functionality (second slot for converting Cobblestone/Stone Bricks to Mossy Cobblestone/Stone Bricks, Nether Bricks to Red Nether Bricks, Prismarine to Dark Prismarine)
+- Deepslate Furnace/Dropper/Dispenser/Observer/Piston/Lodestone/Lever, Blackstone Furnace/Dropper/Dispenser/Observer/Piston/Lodestone/Lever
