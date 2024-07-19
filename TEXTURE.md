@@ -22,6 +22,12 @@
 - **Crafting Table**, **Bookshelf**, **Lectern**, **Cartography Table**, **Fletching Table**, **Stonecutter**, **Enchanting Table** and **Respawn Anchor** uses unique bottom textures
 - **Chipped Anvil**, **Damaged Anvil** uses unique side textures
 - **Farmland**/Tilled Dirt uses darker brown side texture when hydrated
+- **Melon**  and **Pumpkin** are directional, like Logs
+- **Melon** has bottom texture, like Pumpkins
+- **Glistening Melon Slice** item texture is flipped, to match Melon Slice orientation
+- (Melon and Pumpkin Stems have distinct textures)
+- **Jukebox** has a unique texture, distinct from Note Blocks
+- **Soul Soil** and **Soul Sand** swap textures
 - (Leaves are rendered white with falling Snowflake particles when Snow is above)
 - (Stone, Clay, Mud, Dirt are rendered with Grassy/Snowy Top when Moss Carpet/Snow is above)
 - (Sheared Sheep have wool patches to match their dye/color)
@@ -40,3 +46,4 @@
 - Flowering Azalea > Flowering Azalea Bush
 - Bottle O' Enchanting > Bottle of Experience
 - Bucket of Powdered Snow > Bucket of Quicksnow
+- Soul Soil <> Soul Sand

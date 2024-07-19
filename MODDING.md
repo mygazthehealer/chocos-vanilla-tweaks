@@ -10,29 +10,33 @@
 - (Packed Mud can be crafted from 1 Mud and 1 Sawdust)
 - (Paper can be crafted from 4 Sawdust and 1 Water Bottle)
 
-## More Blocks
+## Chocos' Vanilla Tweaks
+### (More Blocks)
 - Blazing Sand: crafted from 9 Blaze Powder
 - Charcoal Block: crafted from 9 Charcoal
 - Gunpowder Block: crafted from 9 Gunpowder
+- Sugar Block: crafted from 9 Sugar
 - Flintstone: crafted from 9 Flint
 - Snow Bricks: crafted from 4 Snow Blocks (Snow Bricks Stair/Wall/Slab stonecut/crafted from Snow Bricks)
 - Blackstone: smelted/blasted from Vanilla Blackstone (renamed Cobbled Blackstone)
 - Glazed Terracota: smelted/blasted from Plain Terracotta
-- Concrete Powder: crafted from 4 Sand/Red Sand + 4 Gravel
+- Concrete Powder: crafted from 1 Sand/Red Sand + 1 Gravel
 - Concrete: converted from Concrete Powder + Water
 - Potato Crate: crafted from 9 Potato
 - Carrot Crate: crafted from 9 Carrot
 - Beetroot Crate: crafted from 9 Beetroot
-- Sugarcane Block: crafted from 9 Sugarcane
-- Storage Block for Amethyst, Quartz, Glowstone Dust, Prismarine Shards, Prismarine Crystals
+- Sugarcane Block: crafted from 9 Sugarcane (Stripped Sugarcane Block converted from Sugarcane Block)
+- Soulstone: crafted from 4 Soul Sand/Soil
+- (Storage Block for Amethyst, Quartz, Glowstone Dust, Prismarine Shards, Prismarine Crystals)
 - Azalea Woodset (Log/Wood/Planks/etc)
-- Bucket of Quicksand/Red Quicksand
+- Bucket of Quicksand, Bucket of Red Quicksand
 - Budding Quartz, Quartz Cluster
 - Budding Prismarine, Prismarine Cluster
 - Ice Shards/Icicle
 - Gilded Blackstone Bricks
 - Golden Door/Trapdoor/Bars, Copper Door/Trapdoor/Bars/Pressure Plate
 - Stone Tablet, Deepslate Tablet, Blackstone Tablet
+- Sandstone Bricks, Red Sandstone Bricks, Basalt Bricks, Cobblestone Bricks
 - Polished Tuff, Polished Calcite, Polished Dripstone, Chiseled Basalt
 - Polished Nether Bricks, Polished Crimson Nether Bricks, Cracked Crimson Nether Bricks, Chiselled Crimson Nether Bricks
 - Packed Clay, Polished Clay Bricks, Cracked Clay Bricks, Chiselled Clay Bricks
@@ -66,16 +70,19 @@
 - Cauldrons have 4 levels of volume (4 Bottles = 1 Bucket/Block)
 - Fire Resistance allows visibility under lava
 - Vines can be placed like Glow Lichen
+- Sponges also absorb Snow and Ice
+- dropping Concrete Powder in Cauldron converts it into Concrete
+- dropping Grass Block in Cauldron converts it into Mud
+- dropping Sponge in Cauldron converts it into Wet Sponge
 
 ## (Ideas)
 - Terracotta Bricks
 - Concrete Bricks
 - Ice Bricks
-- Glass Shards
-- Petrified Wood
+- Petrified Woodset
 - Plain Wool (Wool Carpet/Bed/Banner crafted from Plain Wool)
-- Glassblowing Workstation (New way to brew Splash/Lingering Potions)(New way to recycle miscellaneous Glass items)
-- Apple Crate, Berry Crate, Glow Berry Crate, Chorus Fruit Crate
+- Glass Shards and Glassblowing Workstation (New way to brew Splash/Lingering Potions)(New way to recycle miscellaneous Glass items)
+- Apple Crate, Berry Crate, Glow Berry Crate, Chorus Fruit Crate, Poisonous Potato Crate
 - Fletching Table Functionality (can be used to repair Bows/Crossbows, craft stronger Bows/Crossbows/Arrows)
 - additional Stonecutter functionality (second slot for converting Cobblestone/Stone Bricks to Mossy Cobblestone/Stone Bricks, Nether Bricks to Red Nether Bricks, Prismarine to Dark Prismarine)
 - Deepslate Furnace/Dropper/Dispenser/Observer/Piston/Lodestone/Lever, Blackstone Furnace/Dropper/Dispenser/Observer/Piston/Lodestone/Lever
