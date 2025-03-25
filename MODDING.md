@@ -8,7 +8,7 @@
 - Pykrete/Reinforced Ice: crafted from 1 Ice + 1 Sawdust/Wheat
 - Wood Pulp/Sawdust Block: crafted from 9 Sawdust
 - (Packed Mud can be crafted from 1 Mud and 1 Sawdust)
-- (Paper can be crafted from 4 Sawdust and 1 Water Bottle)
+- (Paper can be crafted from 3 Sawdust and 1 Water Bottle)
 
 ## Chocos' Vanilla Tweaks
 ### (More Blocks)

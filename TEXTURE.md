@@ -33,14 +33,12 @@
 - (Sheared Sheep have wool patches to match their dye/color)
 
 ## (Renaming)
-- Blackstone > Cobbled Blackstone
 - Polished Blackstone Bricks > Blackstone Bricks
 - Cracked Polished Blackstone Bricks > Cracked Blackstone Bricks
 - Chiseled Polished Blackstone > Chiseled Blackstone
 - Polished Blackstone Pressure Plate > Blackstone Pressure Plate 
 - Polished Blackstone Button > Blackstone Button
 - Block of (Item) > (Item) Block
-- Nether Quartz > Quartz
 - Bricks > Clay Bricks
 - Azalea > Azalea Bush
 - Flowering Azalea > Flowering Azalea Bush
