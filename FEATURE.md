@@ -14,7 +14,7 @@ c {color: Cyan}
 ### <o>Stacking</o>
 - _Horse Armour_, _Saddle_, _Minecart_, _Boat_, Filled Buckets (_Water/Milk/Lava/Powder Snow Bucket_), Potions (_Regular/Splash/Lingering Potions_) now stacks to 16 (instead of 1)
 - _Empty Bucket_, _Eye of Ender_ now stacks to 16 (instead of 64)
-- _Bed_, _Cake_, _Banner Pattern_, _Disc_, _Enchanted Book_, _Water Bottle_,_Ingredient Potions (_Awkward/Thick/Mundane Potions_), _Soup/Stew_, _Spyglass_, _Goat Horn_ now stacks to 64 (instead of 1)
+- _Bed_, _Cake_, _Banner Pattern_, _Disc_, _Enchanted Book_, _Water Bottle_, Ingredient Potions (_Awkward/Thick/Mundane Potions_), _Soup/Stew_, _Spyglass_, _Goat Horn_ now stacks to 64 (instead of 1)
 - _Armour Stand_, _Egg_, _Snowball_, _Sign_, _Hanging Sign_, _Honey Bottle_ now stacks to 64 (instead of 16)
 - _Splash Potions_ and _Lingering Potions_ have a cooldown of 2 seconds upon usage
 
@@ -26,10 +26,11 @@ c {color: Cyan}
 - <c>Gunpowder Block</c>: crafted from 9 _Gunpowder_, affected by gravity
 - <c>Flintstone</c>: crafted from 9 _Flint_, creates fire on flamable blocks when pushed/pulled besides _Iron Block_
 - <c>Amethyst Shard Block</c>: crafted from 9 _Amethyst Shard_
-- <c>Echo Shard Block</c>: crafted from 9 _Echo Shard_
 - <c>Quartz Crystal Block</c>: crafted from 9 _Nether Quartz_
 - <c>Prismarine Shard Block</c>: crafted from 9 _Prismarine Shard_
 - <c>Prismarine Crystal Block</c>: crafted from 9 _Prismarine Crystal_, emits light similar to _Sea Lantern_
+- <c>Echo Shard Block</c>: crafted from 9 _Echo Shard_
+- <c>Netherite Scrap Heap</c>: crafted from 9 _Netherite Scrap_
 - <c>Sugar Cube</c>: crafted from 9 _Sugar_, dissolves upon contact with _Water_, _Snowball_ and _Powdered Snow_
 - <c>Sugarcane Block</c>: crafted from 9 _Sugarcane_, has a chance to produce more Sugarcane Block when placed on _Sand/Grass/Mud_ besides _Water_
 - (_Bamboo Block_ has a chance to produce more _Bamboo Block_ when placed on _Sand/Grass/Mud_)
