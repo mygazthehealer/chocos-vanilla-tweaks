@@ -65,7 +65,10 @@ c {color: Cyan}
 ### (New Blocks)
 - <c>Glazed Terracotta</c>: smelted/blasted from Plain ``Terracotta``
 - <c>Concrete Powder</c>: crafted from 1 ``Sand/Red Sand`` and 1 ``Gravel``
-- <c>Concrete</c>: converted from <ins>Concrete Powder</ins> contacting _Water_
+    - <c>Concrete</c>: converted from <ins>Concrete Powder</ins> contacting _Water_
+- <c>Dirty Wool</c>: obtained from killing/shearing Sheep (can be crafted into <ins>Dirty Wool Carpet</ins>, <ins>Dirty Wool Banner</ins>, <ins>Dirty Wool Bed</ins>)
+- <c>Bucket of Quicksand</c>: obtained from using ``Water Bottle`` on ``Sand``, generates in Desert Pits, does not obey gravity
+    - <c>Bucket of Red Quicksand</c>: obtained from using ``Water Bottle`` on ``Red Sand``, generates in Mesa Pits, does not obey gravity
 - <c>Snow Bricks</c>: crafted from 4 ``Snow Block`` (can be crafted/stonecut into <ins>Snow Brick Slab</ins>, <ins>Snow Brick Stairs</ins>, <ins>Snow Brick Wall</ins>)
     - <c>Chiseled Snow</c>: crafted from 2 <ins>Snow Brick Slab</ins> 
 - <c>Soulstone</c>: crafted from 4 ``Soul Sand``/``Soul Soil`` (can be crafted/stonecut into <ins>Soulstone Slab</ins>, <ins>Soulstone Stairs</ins>, <ins>Soulstone Wall</ins>)
