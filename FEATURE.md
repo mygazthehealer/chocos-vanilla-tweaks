@@ -58,9 +58,40 @@ c {color: Cyan}
 - <c>Rotten Flesh Heap</c>: crafted from 9 ``Rotten Flesh``
 - <c>Leather Heap</c>: crafted from 9 ``Leather``
 - <c>String Spool</c>: crafted from 9 ``String``, directional like _Logs_
+- <c>Armadillo Scute Heap</c>: crafted from 9 ``Armadillo Scute``
+- <c>Turtle Scute Heap</c>: crafted from 9 ``Turtle Scute``
+- <c>Kelp Block</c>: crafted from 9 ``Kelp``
+
 
 ## <o>Block Pallette Consistency</o>
 ### (Vanilla Blocks)
+- <ins>Crimson Boat</ins>: crafted from 5 ``Crimson Plank``
+    - <ins>Warped Boat</ins>: crafted from 5 ``Warped Plank``
+    - <ins>Crimson Boat with Chest</ins>: crafted from 5 ``Crimson Plank`` and 1 ``Chest``
+    - <ins>Warped Boat with Chest</ins>: crafted from 5 ``Warped Plank`` and 1 ``Chest``
+- <ins>Crimson Wart Carpet</ins>: crafted from 2 ``Nether Wart Block``
+    - <ins>Warped Wart Carpet</ins>: crafted from 2 ``Warped Wart Block``
+- <ins>Stone Wall</ins>: crafted/stonecut from ``Stone``
+- <ins>Deepslate Slab</ins>, <ins>Deepslate Stair</ins>, <ins>Deepslate Wall</ins>, <ins>Deepslate Button</ins>, <ins>Deepslate Pressure Plate</ins>: crafted/stonecut from ``Deepslate``
+- <ins>Basalt Slab</ins>, <ins>Basalt Stair</ins>, <ins>Basalt Wall</ins>: crafted/stonecut from ``Basalt``
+- <ins>Polished Basalt Slab</ins>, <ins>Polished Basalt Wall</ins>: crafted/stonecut from ``Polished Basalt``
+- <ins>Polished Andesite Wall</ins>: crafted/stonecut from ``Polished Andesite``
+- <ins>Polished Diorite Wall</ins>: crafted/stonecut from ``Polished Diorite``
+- <ins>Polished Granite Wall</ins>: crafted/stonecut from ``Polished Granite``
+- <ins>Smoothstone Stair</ins>, <ins>Smoothstone Wall</ins>: crafted/stonecut from ``Smoothstone``
+- <ins>Smooth Sandstone Wall</ins>: crafted/stonecut from ``Smooth Sandstone``
+- <ins>Smooth Red Sandstone Wall</ins>: crafted/stonecut from ``Smooth Red Sandstone``
+- <ins>Cut Sandstone Stair</ins>, <ins>Cut Sandstone Wall</ins>: crafted/stonecut from ``Cut Sandstone``
+- <ins>Cut Red Sandstone Stair</ins>, <ins>Cut Red Sandstone Wall</ins>: crafted/stonecut from ``Cut Red Sandstone``
+- <ins>Dripstone Slab</ins>, <ins>Dripstone Stair</ins>, <ins>Dripstone Wall</ins>: crafted/stonecut from ``Dripstone``
+- <ins>Calcite Slab</ins>, <ins>Calcite Stair</ins>, <ins>Calcite Wall</ins>: crafted/stonecut from ``Calcite``
+- <ins>Quartz Bricks Slab</ins>, <ins>Quartz Bricks Stair</ins>, <ins>Quartz Bricks Wall</ins>: crafted/stonecut from ``Quartz Bricks``
+- <ins>Smooth Quartz Wall</ins>: crafted/stonecut from ``Smooth Quartz``
+- <ins>Smooth Basalt Slab</ins>, <ins>Smooth Basalt Stair</ins>, <ins>Smooth Basalt Wall</ins>: crafted/stonecut from ``Smooth Basalt``
+- <ins>Prismarine Bricks Wall</ins>: crafted/stonecut from ``Prismarine Bricks``
+- <ins>Dark Prismarine Wall</ins>: crafted/stonecut from ``Dark Prismarine``
+- <ins>Purpur Pillar Slab</ins>, <ins>Purpur Pillar Wall</ins>: crafted/stonecut from ``Purpur Pillar``
+- <ins>Endstone Slab</ins>, <ins>Endstone Stair</ins>, <ins>Endstone Wall</ins>: crafted/stonecut from ``Endstone``
 
 ### (New Blocks)
 - <c>Glazed Terracotta</c>: smelted/blasted from Plain ``Terracotta``
@@ -85,6 +116,14 @@ c {color: Cyan}
 - <c>Magma Bricks</c>: crafted from 4 ``Magma Block`` (can be crafted/stonecut into <ins>Magma Brick Slab</ins>, <ins>Magma Brick Stairs</ins>, <ins>Magma Brick Wall</ins>)
     - <c>Chiseled Magma Bricks</c>: crafted from 2 <ins>Magma Brick Slab</ins>
     - <c>Cracked Magma Bricks</c>: smelted/blasted from <ins>Magma Bricks</ins>
+- <c>Chiselled Endstone Bricks</c>: crafted from 2 ``Endstone Brick Slab``
+    - <c>Cracked Endstone Bricks</c>: smelted/blasted from ``Endstone Bricks``
+- <c>Chiselled Red Nether Bricks</c>: crafted from 2 ``Red Nether Brick Slab``
+    - <c>Cracked Red Nether Bricks</c>: smelted/blasted from ``Red Nether Bricks``
+- <c>Chiselled Clay Bricks</c>: crafted from 2 ``Clay Brick Slab``
+    - <c>Cracked Clay Bricks</c>: smelted/blasted from ``Clay Bricks``
+- <c>Chiselled Mud Bricks</c>: crafted from 2 ``Mud Brick Slab``
+    - <c>Cracked Mud Bricks</c>: smelted/blasted from ``Mud Bricks``
 
 ## <o>Miscellaneous<o>
 - using ``Water Bottle`` on ``Concrete Powder`` converts it into ``Concrete``
