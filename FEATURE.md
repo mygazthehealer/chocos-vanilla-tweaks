@@ -195,16 +195,77 @@ c {color: Cyan}
 - (``Packed Mud`` can be crafted from 1 ``Mud`` and 1 <ins>Sawdust</ins>)
 - (``Paper`` can be crafted from 3 <ins>Sawdust</ins> and 1 ``Water Bottle``)
 
-    | 50% * 1        | 75% * 1      | 100% * 1       | 50% * 2  | 75% * 2    | 100% * 2        | 50% * 3 | 75% * 3 | 100% * 8     |
-    |----------------|--------------|----------------|----------|------------|-----------------|---------|---------|--------------|
-    | Stick          | Hanging Sign | Wooden Axe     | Slab     | Stair      | Wooden Planks   | (-)     | (+)     | Wood         |
-    | Deadbush       | Sign         | Wooden Pickaxe | Door     | Fence      | Bamboo Mosaic   |         |         | Hyphae       |
-    | Sapling        | Ladder       | Wooden Shovel  | Trapdoor | Fence Gate | Boat            |         |         | Log          |
-    | Pressure Plate |              | Wooden Sword   |          |            | Boat with Chest |         |         | Stem         |
-    | Button         |              | Wooden Hoe     |          |            |                 |         |         | Bamboo Block |
+ <table>
+  <tr>
+    <th>50% * 1</th>
+    <th>75% * 1</th>
+    <th>100% * 1</th>
+    <th>50% * 2</th>
+    <th>75% * 2</th>
+    <th>100% * 2</th>
+    <th>50% * 3</th>
+    <th>75% * 3</th>
+    <th>100% * 8</th>
+  </tr>
+  <tr>
+    <th>Stick</th>
+    <th>Hanging Sign</th>
+    <th>Wooden Axe</th>
+    <th>Slab</th>
+    <th>Stair</th>
+    <th>Wooden Planks</th>
+    <th>(-)</th>
+    <th>(+)</th>
+    <th>Wood</th>
+  </tr>
+  <tr>
+    <td>Deadbush</td>
+    <td>Sign</td>
+    <td>Wooden Pickaxe</td>
+    <td>Door</td>
+    <td>Fence</td>
+    <td>Bamboo Mosaic</td>
+    <td></td>
+    <td></td>
+    <td>Hyphae</td>
+  </tr>
+  <tr>
+    <td>Sapling</td>
+    <td>Ladder</td>
+    <td>Wooden Shovel</td>
+    <td>Trapdoor</td>
+    <td>Fence Gate</td>
+    <td>Boat</td>
+    <td></td>
+    <td></td>
+    <td>Log</td>
+  </tr>
+  <tr>
+    <td>Pressure Plate</td>
+    <td></td>
+    <td>Wooden Sword</td>
+    <td></td>
+    <td></td>
+    <td>Boat with Chest</td>
+    <td></td>
+    <td></td>
+    <td>Stem</td>
+  </tr>
+  <tr>
+    <td>Button</td>
+    <td></td>
+    <td>Wooden Hoe</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Bamboo Block</td>
+  </tr>
+</table> 
 
-    - (+) Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
-    - (-) Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
+- (+) Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
+- (-) Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
 
 ### <o>Smelters</o>
 - ``Furnace/Blast Furnace/Smoker`` can now yield more than one item (via count argument)
