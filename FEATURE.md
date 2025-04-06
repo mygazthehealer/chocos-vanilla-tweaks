@@ -10,7 +10,51 @@ c {color: Cyan}
 - Features marked <g>green</g> have been implemented, <o>orange</o> is work-in-progress and <r>red</r> has not yet been implemented.
 - Blocks/Items marked <c>cyan</c>/<ins>underlined</ins> are modded and ``nano``/_italicised_ are vanilla.
 
-## Inventory
+## <o>Inventory</o>
+### <o>Renaming</o>
+- ``Block of Amethyst`` > <ins>Amethyst Block</ins>
+    - ``Block of Coal`` > <ins>Coal Block</ins>
+    - ``Block of Copper`` > <ins>Copper Block</ins>
+    - ``Block of Raw Copper`` > <ins>Raw Copper Block</ins>
+    - ``Block of Iron`` > <ins>Iron Block</ins>
+    - ``Block of Raw Iron`` > <ins>Raw Iron Block</ins>
+    - ``Block of Gold`` > <ins>Gold Block</ins>
+    - ``Block of Raw Gold`` > <ins>Raw Gold Block</ins>
+    - ``Block of Diamond`` > <ins>Diamond Block</ins>
+    - ``Block of Emerald`` > <ins>Emerald Block</ins>
+    - ``Block of Netherite`` > <ins>Netherite Block</ins>
+    - ``Block of Quartz`` > <ins>Quartz Block</ins>
+    - ``Block of Redstone`` > <ins>Redstone Block</ins>
+    - ``Block of Resin`` > <ins>Resin Block</ins>
+    - ``Block of Bamboo`` > <ins>Bamboo Block</ins>
+    - ``Block of Stripped Bamboo`` > <ins>Stripped Bamboo Block</ins>
+- ``End Stone`` > <ins>Endstone</ins>
+    - ``End Stone Brick Slab`` > <ins>Endstone Brick Slab</ins>
+    - ``End Stone Brick Stairs`` > <ins>Endstone Brick Stairs</ins>
+    - ``End Stone Brick Wall`` > <ins>Endstone Brick Wall</ins>
+    - ``End Stone Bricks`` > <ins>Endstone Bricks</ins>
+- ``Polished Blackstone Brick Slab`` > <ins>Blackstone Brick Slab</ins>
+    - ``Polished Blackstone Brick Stairs`` > <ins>Blackstone Brick Stairs</ins>
+    - ``Polished Blackstone Brick Wall`` > <ins>Blackstone Brick Wall</ins>
+    - ``Polished Blackstone Bricks`` > <ins>Blackstone Bricks</ins>
+    - ``Chiseled Polished Blackstone`` > <ins>Chiseled Blackstone</ins>
+    - ``Cracked Polished Blackstone Bricks`` > <ins>Cracked Blackstone Bricks</ins>
+    - ``Polished Blackstone Button`` > <ins>Blackstone Button</ins>
+    - ``Polished Blackstone Pressure Plate`` > <ins>Blackstone Pressure Plate</ins>
+- ``Magma Block`` > <ins>Magma</ins>
+- ``Soul Soil`` > <ins>Soul Sand</ins>
+    - ``Soul Sand`` > <ins>Soul Soil</ins>
+- ``Snow Block`` > <ins>Snow</ins>
+    - ``Snow`` > <ins>Snow Layer</ins>
+- ``Brick`` > <ins>Clay Brick</ins>
+    - ``Bricks`` > <ins>Clay Bricks</ins>
+- ``Dripstone Block`` > <ins>Dripstone</ins>
+- ``Nether Wart Block`` > <ins>Crimson Wart Block</ins>
+- ``Grass Block``> <ins>Grassy Dirt</ins>
+- ``Azalea`` > <ins>Azalea Bush</ins>
+    - ``Flowering Azalea`` > <ins>Flowering Azalea Bush</ins>
+- ``Bottle O' Enchanting`` > <ins>Bottled Experience</ins>
+
 ### <o>Stacking</o>
 - ``Horse Armour``, ``Saddle``, ``Minecart``, ``Boat``, Filled Buckets (``Water/Milk/Lava/Powder Snow Bucket``), Potions (``Regular/Splash/Lingering Potion``) now stacks to 16 (instead of 1)
 - ``Empty Bucket``, ``Eye of Ender`` now stacks to 16 (instead of 64)
@@ -62,13 +106,13 @@ c {color: Cyan}
 - <c>Turtle Scute Heap</c>: crafted from 9 ``Turtle Scute``
 - <c>Kelp Block</c>: crafted from 9 ``Kelp``
 
-
 ## <o>Block Pallette Consistency</o>
-### (Vanilla Blocks)
+### <o>(Vanilla Blocks)</o>
 - <ins>Crimson Boat</ins>: crafted from 5 ``Crimson Plank``
     - <ins>Warped Boat</ins>: crafted from 5 ``Warped Plank``
     - <ins>Crimson Boat with Chest</ins>: crafted from 5 ``Crimson Plank`` and 1 ``Chest``
     - <ins>Warped Boat with Chest</ins>: crafted from 5 ``Warped Plank`` and 1 ``Chest``
+- <ins>Netherite Horse Armour</ins>: smithed from 1 ``Diamond Horse Armour`` and 1 ``Netherite Ingot``
 - <ins>Crimson Wart Carpet</ins>: crafted from 2 ``Nether Wart Block``
     - <ins>Warped Wart Carpet</ins>: crafted from 2 ``Warped Wart Block``
 - <ins>Stone Wall</ins>: crafted/stonecut from ``Stone``
@@ -93,7 +137,7 @@ c {color: Cyan}
 - <ins>Purpur Pillar Slab</ins>, <ins>Purpur Pillar Wall</ins>: crafted/stonecut from ``Purpur Pillar``
 - <ins>Endstone Slab</ins>, <ins>Endstone Stair</ins>, <ins>Endstone Wall</ins>: crafted/stonecut from ``Endstone``
 
-### (New Blocks)
+### <o>(New Blocks)</o>
 - <c>Glazed Terracotta</c>: smelted/blasted from Plain ``Terracotta``
 - <c>Concrete Powder</c>: crafted from 1 ``Sand/Red Sand`` and 1 ``Gravel``
     - <c>Concrete</c>: converted from <ins>Concrete Powder</ins> contacting _Water_
@@ -103,8 +147,8 @@ c {color: Cyan}
 - <c>Snow Bricks</c>: crafted from 4 ``Snow Block`` (can be crafted/stonecut into <ins>Snow Brick Slab</ins>, <ins>Snow Brick Stairs</ins>, <ins>Snow Brick Wall</ins>)
     - <c>Chiseled Snow</c>: crafted from 2 <ins>Snow Brick Slab</ins> 
 - <c>Soulstone</c>: crafted from 4 ``Soul Sand``/``Soul Soil`` (can be crafted/stonecut into <ins>Soulstone Slab</ins>, <ins>Soulstone Stairs</ins>, <ins>Soulstone Wall</ins>)
-    - <c>Cut Soulstone</c>: crafted from 4 <ins>Soulstone</ins> (can be crafted/stonecut into <ins>Cut Soulstone Slab</ins>)
-    - <c>Smooth Soulstone</c>: smelted/blasted from <ins>Soulstone</ins> (can be crafted/stonecut into <ins>Smooth Soulstone Slab</ins>, <ins>Smooth Soulstone Stairs</ins>)
+    - <c>Cut Soulstone</c>: crafted from 4 <ins>Soulstone</ins> (can be crafted/stonecut into <ins>Cut Soulstone Slab</ins>, <ins>Cut Soulstone Stairs</ins>, <ins>Cut Soulstone Wall</ins>)
+    - <c>Smooth Soulstone</c>: smelted/blasted from <ins>Soulstone</ins> (can be crafted/stonecut into <ins>Smooth Soulstone Slab</ins>, <ins>Smooth Soulstone Stairs</ins>, <ins>Smooth Soulstone Wall</ins>)
     - <c>Chiseled Soulstone</c>: crafted from 2 <ins>Soulstone Slab</ins>
 - <c>Iron Grate</c>: crafted from 8 ``Iron Ingot``
 - <c>Golden Grate</c>: crafted from 8 ``Gold Ingot``
@@ -125,7 +169,8 @@ c {color: Cyan}
 - <c>Chiselled Mud Bricks</c>: crafted from 2 ``Mud Brick Slab``
     - <c>Cracked Mud Bricks</c>: smelted/blasted from ``Mud Bricks``
 
-## <o>Miscellaneous<o>
+## <o>Miscellaneous</o>
+### <o>(Vanilla Interactions)</o>
 - using ``Water Bottle`` on ``Concrete Powder`` converts it into ``Concrete``
 - using ``Water Bottle`` on ``Grass Block`` converts it into ``Mud``
 - using ``Glowstone Dust`` on ``Sign/Hanging Sign`` makes text glow
@@ -135,8 +180,34 @@ c {color: Cyan}
 - harvesting ``Torchflower`` yields ``Torchflower Seed`` along with ``Torchflower``
 - ``Sponge`` absorbs ``Ice``, ``Snow Block``, ``Snow Carpets`` and ``Powdered Snow``
 
-## Workbench
-### <r>Smelters</r>
+### <o>(New Blocks)</o>
+- <c>Frame</c>: crafted from 8 ``Stick``, can be used while planning/mapping builds (using any _Block_ on an <ins>Empty Frame</ins> fills it, using any Block on a <ins>Full Frame</ins> swaps out that _Block_)
+- (``Composter`` produces <c>Compost</c> instead of ``Bone Meal``, which can be used to grow crops/saplings; new source for renewable ``Dirt``, tilling <ins>Compost</ins> converts it to ``Farmland``)
+
+## <o>Workbench</o>
+### <o>Sawmill</o>
+- <c>Sawmill</c>: crafted from 1 ``Iron Ingot`` and 3 _Wooden Planks_ (_Logs_ and _Wooden Planks_ can be cut into _Wooden Products_)
+- <c>Woodchipper</c>: crafted from 7 _Wooden Slab_ and 1 ``Iron Ingot`` or from 1 ``Composter`` and 1 ``Iron Ingot`` (using _Wooden Tools_, _Wooden Planks_ and miscellaneous _Wooden Items_ on it produces one layer of <ins>Sawdust</ins>; upon reaching 8 layers, it produces <ins>Wood Pulp</ins>)
+- <c>Wood Pulp</c>: crafted from 9 <ins>Sawdust</ins>
+- <c>Sawdust</c>: crafted from <ins>Wood Pulp</ins>
+- <c>Pykrete</c>: crafted from 1 ``Ice`` and 1 <ins>Sawdust</ins> (blast/ghast resistant)
+- (<ins>Sawdust</ins>, <ins>Wood Pulp</ins> can be used as fuel in ``Furnace``)
+- (``Packed Mud`` can be crafted from 1 ``Mud`` and 1 <ins>Sawdust</ins>)
+- (``Paper`` can be crafted from 3 <ins>Sawdust</ins> and 1 ``Water Bottle``)
+
+    | 50% * 1        | 75% * 1      | 100% * 1       | 50% * 2  | 75% * 2    | 100% * 2 | 50% * 3 | 75% * 3 | 100% * 8 |
+    |----------------|--------------|----------------|----------|------------|----------|---------|---------|----------|
+    | Stick          | Hanging Sign | Wooden Axe     | Slab     | Stair      | Planks   | (-)     | (+)     | Wood     |
+    | Deadbush       | Sign         | Wooden Pickaxe | Door     | Fence      | Mosaic   |         |         | Hyphae   |
+    | Bamboo         | Ladder       | Wooden Shovel  | Trapdoor | Fence Gate | Boat     |         |         | Log      |
+    | Sapling        |              | Wooden Sword   |          |            |          |         |         | Stem     |
+    | Pressure Plate |              | Wooden Hoe     |          |            |          |         |         |          |
+    | Button         |              |                |          |            |          |         |         |          |
+
+    - (+) Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
+    - (-) Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
+
+### <o>Smelters</o>
 - ``Furnace/Blast Furnace/Smoker`` can now yield more than one item (via count argument)
 - smelting _Iron/Gold Gear_ outputs certain amount of nuggets determined by amount of ingots required per gear multiplied by base number based on durability percentage*, instead of just a single nugget (see [Amaro's Minecraft Rebuild doc](https://docs.google.com/document/d/1hcjAA0sCdIw9qAKpBs5FCjGDc9U5kW2f/edit?tab=t.0#heading=h.1ksv4uv))
 
