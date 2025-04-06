@@ -189,20 +189,19 @@ c {color: Cyan}
 - <c>Sawmill</c>: crafted from 1 ``Iron Ingot`` and 3 _Wooden Planks_ (_Logs_ and _Wooden Planks_ can be cut into _Wooden Products_)
 - <c>Woodchipper</c>: crafted from 7 _Wooden Slab_ and 1 ``Iron Ingot`` or from 1 ``Composter`` and 1 ``Iron Ingot`` (using _Wooden Tools_, _Wooden Planks_ and miscellaneous _Wooden Items_ on it produces one layer of <ins>Sawdust</ins>; upon reaching 8 layers, it produces <ins>Wood Pulp</ins>)
 - <c>Wood Pulp</c>: crafted from 9 <ins>Sawdust</ins>
-- <c>Sawdust</c>: crafted from <ins>Wood Pulp</ins>
+- <c>Sawdust</c>: crafted from <ins>Wood Pulp</ins> or ``Bamboo``
 - <c>Pykrete</c>: crafted from 1 ``Ice`` and 1 <ins>Sawdust</ins> (blast/ghast resistant)
 - (<ins>Sawdust</ins>, <ins>Wood Pulp</ins> can be used as fuel in ``Furnace``)
 - (``Packed Mud`` can be crafted from 1 ``Mud`` and 1 <ins>Sawdust</ins>)
 - (``Paper`` can be crafted from 3 <ins>Sawdust</ins> and 1 ``Water Bottle``)
 
-    | 50% * 1        | 75% * 1      | 100% * 1       | 50% * 2  | 75% * 2    | 100% * 2 | 50% * 3 | 75% * 3 | 100% * 8 |
-    |----------------|--------------|----------------|----------|------------|----------|---------|---------|----------|
-    | Stick          | Hanging Sign | Wooden Axe     | Slab     | Stair      | Planks   | (-)     | (+)     | Wood     |
-    | Deadbush       | Sign         | Wooden Pickaxe | Door     | Fence      | Mosaic   |         |         | Hyphae   |
-    | Bamboo         | Ladder       | Wooden Shovel  | Trapdoor | Fence Gate | Boat     |         |         | Log      |
-    | Sapling        |              | Wooden Sword   |          |            |          |         |         | Stem     |
-    | Pressure Plate |              | Wooden Hoe     |          |            |          |         |         |          |
-    | Button         |              |                |          |            |          |         |         |          |
+    | 50% * 1        | 75% * 1      | 100% * 1       | 50% * 2  | 75% * 2    | 100% * 2        | 50% * 3 | 75% * 3 | 100% * 8     |
+    |----------------|--------------|----------------|----------|------------|-----------------|---------|---------|--------------|
+    | Stick          | Hanging Sign | Wooden Axe     | Slab     | Stair      | Wooden Planks   | (-)     | (+)     | Wood         |
+    | Deadbush       | Sign         | Wooden Pickaxe | Door     | Fence      | Bamboo Mosaic   |         |         | Hyphae       |
+    | Sapling        | Ladder       | Wooden Shovel  | Trapdoor | Fence Gate | Boat            |         |         | Log          |
+    | Pressure Plate |              | Wooden Sword   |          |            | Boat with Chest |         |         | Stem         |
+    | Button         |              | Wooden Hoe     |          |            |                 |         |         | Bamboo Block |
 
     - (+) Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
     - (-) Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
