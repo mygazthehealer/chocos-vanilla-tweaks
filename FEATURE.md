@@ -214,8 +214,8 @@ c {color: Cyan}
     <th>Slab</th>
     <th>Stair</th>
     <th>Wooden Planks</th>
-    <th>(-)</th>
-    <th>(+)</th>
+    <th><nano>-</nano></th>
+    <th><nano>+</nano></th>
     <th>Wood</th>
   </tr>
   <tr>
@@ -264,8 +264,8 @@ c {color: Cyan}
   </tr>
 </table> 
 
-- (+) Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
-- (-) Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
+- ``+`` Chest/Barrel/Chiselled Bookshelf/Composter/Jukebox/Noteblock/Bookshelf/Beehive
+- ``-`` Cartography Table/Loom/Fletching Table/Smithing Table/Crafting Table/Lectern/Campfire
 
 ### <o>Smelters</o>
 - ``Furnace/Blast Furnace/Smoker`` can now yield more than one item (via count argument)
