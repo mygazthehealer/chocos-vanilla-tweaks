@@ -208,15 +208,15 @@ c {color: Cyan}
     <th>100% * 8</th>
   </tr>
   <tr>
-    <th>Stick</th>
-    <th>Hanging Sign</th>
-    <th>Wooden Axe</th>
-    <th>Slab</th>
-    <th>Stair</th>
-    <th>Wooden Planks</th>
-    <th><nano>-</nano></th>
-    <th><nano>+</nano></th>
-    <th>Wood</th>
+    <td>Stick</td>
+    <td>Hanging Sign</td>
+    <td>Wooden Axe</td>
+    <td>Slab</td>
+    <td>Stair</td>
+    <td>Wooden Planks</td>
+    <td><nano>-</nano></td>
+    <td><nano>+</nano></td>
+    <td>Wood</td>
   </tr>
   <tr>
     <td>Deadbush</td>
